@@ -1,4 +1,4 @@
-# End-to-End-Cancer-Classification-Using-MLFlow
+# Chest-Cancer-Classification
 
 ## Workflows
 
